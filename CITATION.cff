@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated article and this repository."
+title: "Reproducibility package: Health Financing for Universal Health Coverage in Low- and Lower-Middle-Income Countries: Potential and Challenges"
+type: software
+authors:
+  - family-names: Meena
+    given-names: Fadhili
+    orcid: "https://orcid.org/0009-0001-5483-9499"
+version: "1.0.0"
+date-released: "2026-09-15"
+license: MIT

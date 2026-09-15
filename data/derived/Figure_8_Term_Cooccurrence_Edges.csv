@@ -1,0 +1,420 @@
+term1,term2,cooccurrences,association_strength
+universal health coverage,coverage,1026,0.6959248482676761
+health insurance,coverage,1666,0.5800865895414626
+health insurance,access,1339,0.5066878912764028
+access,coverage,887,0.4647902273395994
+health insurance,enrolment,711,0.41642789910890327
+equity,access,514,0.4151391974028073
+out-of-pocket payments,catastrophic health expenditure,328,0.4019794995533255
+out-of-pocket payments,coverage,674,0.39027980334555334
+health insurance,community-based health insurance,594,0.3861447784967954
+universal health coverage,health insurance,783,0.3835335190277603
+out-of-pocket payments,health insurance,903,0.3775987185725596
+health insurance,utilization,752,0.37595949254689953
+equity,coverage,488,0.3626672374221124
+out-of-pocket payments,access,567,0.3568135678512739
+catastrophic health expenditure,impoverishment,112,0.3417303368847864
+access,utilization,453,0.34082932610745764
+financial protection,out-of-pocket payments,300,0.33460768229257853
+universal health coverage,access,453,0.3339298980691861
+coverage,enrolment,404,0.3276611881671412
+universal health coverage,equity,313,0.32723260855537617
+utilization,coverage,462,0.31984429534801473
+out-of-pocket payments,impoverishment,177,0.3064430886040064
+health insurance,social health insurance,364,0.30253309916024584
+health insurance,implementation,562,0.30248138819253517
+financial protection,coverage,324,0.30090869016749
+universal health coverage,out-of-pocket payments,360,0.2932529680914413
+equity,health insurance,541,0.29034366041833637
+strategic purchasing,provider payment,24,0.2889051130111944
+health financing,coverage,422,0.2852869100084674
+access,enrolment,323,0.28470053235531806
+health financing,equity,273,0.28446529872847603
+health financing,out-of-pocket payments,350,0.2841596253541017
+out-of-pocket payments,equity,317,0.282925894312376
+access,implementation,344,0.27863542083166754
+universal health coverage,enrolment,242,0.2761103823334982
+financial protection,access,270,0.2725182581667247
+coverage,implementation,361,0.2690561746754442
+out-of-pocket payments,utilization,323,0.2685493397392128
+universal health coverage,health financing,281,0.2672387605071504
+community-based health insurance,enrolment,176,0.2665030585576344
+strategic purchasing,governance,41,0.2629718386475477
+financial protection,health insurance,388,0.26022440617307835
+equity,efficiency,154,0.25462825131921624
+health insurance,informal sector,262,0.25237065239011525
+health financing,access,338,0.24832944314790828
+universal health coverage,financial protection,188,0.24562428527417315
+utilization,enrolment,208,0.24222131485060514
+informal sector,coverage,181,0.24142906552509896
+performance-based financing,implementation,118,0.23600755236251533
+equity,utilization,221,0.23582300085258046
+governance,accountability,40,0.23196300021307367
+universal health coverage,implementation,220,0.23066525236469407
+strategic purchasing,fragmentation,24,0.22968873543543986
+social health insurance,coverage,199,0.2290329719475565
+financial protection,catastrophic health expenditure,112,0.2201514869982466
+health financing,health insurance,446,0.2177362973606563
+community-based health insurance,access,221,0.21620788829266605
+universal health coverage,strategic purchasing,70,0.21305846134869075
+informal sector,enrolment,94,0.21090711006168325
+equity,implementation,183,0.210224876146949
+financial protection,equity,145,0.20756540750779137
+health insurance,quality of care,249,0.20695258706291544
+universal health coverage,utilization,212,0.20646965364418665
+government spending,health outcomes,59,0.20613751667576186
+catastrophic health expenditure,coverage,201,0.2051167779738967
+community-based health insurance,coverage,227,0.20434452130397743
+community-based health insurance,rural populations,67,0.20416299705220164
+universal health coverage,social health insurance,126,0.2040042485136683
+universal health coverage,governance,100,0.2010774445292375
+health financing,efficiency,133,0.20004071569179688
+universal health coverage,informal sector,106,0.19890265420970668
+health financing,governance,98,0.19640106768524107
+health insurance,efficiency,246,0.19056814218201223
+governance,fragmentation,30,0.18967597300704392
+access,quality of care,151,0.18887044331116135
+social health insurance,informal sector,59,0.1878523681665515
+strategic purchasing,efficiency,39,0.18773229232863622
+user fees,access,149,0.18740137033015483
+user fees,utilization,112,0.1861091741324614
+universal health coverage,efficiency,123,0.185616875816302
+financial protection,community-based health insurance,107,0.18553224122612122
+equity,fragmentation,56,0.18408905677735035
+utilization,implementation,172,0.18406431289380715
+health financing,implementation,175,0.1828739966188517
+health financing,fragmentation,61,0.18241085230277632
+community-based health insurance,utilization,141,0.18224752512903244
+quality of care,coverage,158,0.18184527420961774
+equity,governance,82,0.18065530905997887
+efficiency,coverage,168,0.1802178873334581
+out-of-pocket payments,enrolment,185,0.1801939884124704
+financial protection,utilization,135,0.18002336454839715
+vulnerable populations,coverage,115,0.1794571925018895
+health insurance,rural populations,150,0.1767967088346478
+access,vulnerable populations,104,0.17637559359207253
+universal health coverage,community-based health insurance,139,0.1760255362599801
+risk pooling,coverage,108,0.17578575777465283
+health financing,risk pooling,77,0.17572307780400637
+utilization,quality of care,106,0.1751685693893752
+health insurance,risk pooling,149,0.17513493234334732
+health insurance,vulnerable populations,155,0.17467120147346848
+financial protection,enrolment,110,0.17184416647166711
+user fees,implementation,96,0.17173551629643674
+universal health coverage,fragmentation,57,0.17101778677478496
+efficiency,fragmentation,36,0.17082151003892923
+quality of care,implementation,96,0.17078930790401756
+governance,coverage,119,0.17009305594265478
+governance,efficiency,53,0.16854382922446384
+fragmentation,coverage,79,0.16848831328000527
+social health insurance,access,134,0.16760688346818292
+efficiency,implementation,101,0.16747674043232502
+equity,enrolment,133,0.16626182059650824
+access,primary health care,104,0.16619526716914282
+universal health coverage,catastrophic health expenditure,115,0.1650922564856818
+access,informal sector,113,0.16380665512249892
+health financing,health outcomes,95,0.16350174282010962
+catastrophic health expenditure,health insurance,221,0.16286358211479246
+universal health coverage,risk pooling,71,0.1625706018024844
+risk pooling,prepayment,22,0.16226554020501807
+governance,implementation,73,0.16128983441307052
+equity,user fees,90,0.16054032476698388
+out-of-pocket payments,risk pooling,82,0.16028715310332475
+access,health outcomes,120,0.16008255273515914
+out-of-pocket payments,prepayment,61,0.1600625402772648
+impoverishment,coverage,111,0.16002012683903946
+government spending,efficiency,52,0.15877288984246024
+strategic purchasing,accountability,18,0.158004195944917
+strategic purchasing,coverage,73,0.15794281412916045
+access,efficiency,134,0.15621960346607394
+community-based health insurance,risk pooling,51,0.1549801222884812
+accountability,implementation,51,0.15421443992880274
+catastrophic health expenditure,access,138,0.1530475335590169
+enrolment,implementation,122,0.1529494715349527
+provider payment,accountability,14,0.15237206797127917
+coverage,health outcomes,124,0.1522096964941678
+out-of-pocket payments,vulnerable populations,81,0.15180042264295027
+out-of-pocket payments,community-based health insurance,140,0.15135267804243732
+risk pooling,fragmentation,21,0.1511926461685312
+out-of-pocket payments,rural populations,77,0.15092875677827025
+equity,risk pooling,60,0.15052493021595292
+health financing,utilization,155,0.1504549490650019
+health financing,government spending,78,0.15008883625297556
+social health insurance,implementation,84,0.14944064441601534
+performance-based financing,quality of care,48,0.14824986333222023
+financial protection,impoverishment,53,0.14717226480883489
+health insurance,benefit package,96,0.14716398814575485
+community-based health insurance,informal sector,59,0.14692946029585455
+out-of-pocket payments,implementation,162,0.1450025730947051
+equity,vulnerable populations,59,0.141909769506324
+health insurance,governance,137,0.14141216463231432
+social health insurance,enrolment,73,0.1413253862145445
+out-of-pocket payments,informal sector,88,0.14096736559095294
+user fees,quality of care,51,0.14088612812800663
+quality of care,efficiency,55,0.140833180149852
+equity,strategic purchasing,42,0.1400630425569189
+equity,health outcomes,74,0.14000695449917078
+risk pooling,informal sector,31,0.1395858367853605
+utilization,health outcomes,79,0.13923650446255212
+health financing,financial protection,105,0.13672790685556158
+health financing,strategic purchasing,45,0.13651100740215066
+financial protection,informal sector,53,0.13617121741703772
+universal health coverage,vulnerable populations,62,0.13610637052490665
+coverage,benefit package,64,0.13585752831511344
+quality of care,enrolment,70,0.13551749363038512
+rural populations,coverage,83,0.1354672856362677
+provider payment,governance,17,0.13519340878497774
+utilization,primary health care,64,0.1351227738775449
+cost sharing,access,70,0.13460941095750614
+efficiency,health outcomes,48,0.1310868829557515
+risk pooling,access,74,0.13089822875624288
+health insurance,health outcomes,147,0.13030604099518592
+utilization,vulnerable populations,58,0.12995602173194065
+universal health coverage,quality of care,80,0.12952650699280527
+equity,social health insurance,73,0.12949859198688748
+primary health care,coverage,88,0.12939749371044784
+catastrophic health expenditure,equity,82,0.12897817722898602
+out-of-pocket payments,social health insurance,93,0.1285442970654829
+social health insurance,efficiency,50,0.12803016377259271
+out-of-pocket payments,efficiency,99,0.1275406835050213
+catastrophic health expenditure,utilization,87,0.12747639309552813
+government spending,fiscal space,12,0.1267731382092775
+health insurance,primary health care,119,0.1263620707826456
+financial protection,vulnerable populations,42,0.12624401301159494
+equity,informal sector,61,0.12541170370138566
+impoverishment,access,80,0.12533828234348568
+social health insurance,risk pooling,32,0.12432646702181056
+universal health coverage,impoverishment,61,0.1237101123296043
+equity,quality of care,69,0.122402778727332
+out-of-pocket payments,health outcomes,83,0.12235554623317846
+efficiency,accountability,28,0.12186128330225367
+social health insurance,benefit package,24,0.12160982430868249
+governance,access,78,0.12116476530467835
+universal health coverage,accountability,44,0.12108400089203483
+community-based health insurance,implementation,87,0.12106006622833526
+performance-based financing,accountability,23,0.1207386511001698
+equity,accountability,40,0.12060563425094603
+risk pooling,enrolment,44,0.12046614009942297
+impoverishment,equity,54,0.11998933475534489
+universal health coverage,benefit package,40,0.11945035950356891
+provider payment,efficiency,20,0.1193673583439891
+performance-based financing,primary health care,30,0.1183784309525946
+financial protection,implementation,82,0.1177194124578141
+impoverishment,prepayment,18,0.11758930560831143
+community-based health insurance,quality of care,54,0.11603381867926461
+informal sector,implementation,56,0.11546318123405405
+financial protection,social health insurance,52,0.115278083540847
+out-of-pocket payments,quality of care,83,0.11472232963908689
+cost sharing,utilization,45,0.11432814657274079
+strategic purchasing,benefit package,12,0.11430645203117362
+enrolment,benefit package,32,0.11426312623193266
+universal health coverage,primary health care,55,0.11377048687889553
+financial protection,risk pooling,36,0.11286542020696927
+fragmentation,accountability,13,0.1124877285244191
+equity,community-based health insurance,81,0.11238786319777133
+financial protection,benefit package,27,0.1103992114525967
+vulnerable populations,enrolment,42,0.1102464738918259
+health financing,social health insurance,68,0.10973167058416267
+health financing,accountability,40,0.10971057442505505
+impoverishment,health insurance,105,0.10931191713897861
+social health insurance,governance,32,0.10918004903242984
+health financing,tax financing,17,0.10913367337693465
+primary health care,implementation,48,0.10910105325547689
+social health insurance,utilization,66,0.10906722244998832
+universal health coverage,rural populations,47,0.1079140344249135
+utilization,efficiency,70,0.10781819033380068
+health financing,user fees,66,0.1070943243724718
+rural populations,enrolment,39,0.10707136326303852
+out-of-pocket payments,cost sharing,50,0.10625030879040864
+government spending,governance,26,0.1057784901719194
+catastrophic health expenditure,vulnerable populations,32,0.10568829400491767
+coverage,accountability,54,0.10563409385880056
+out-of-pocket payments,user fees,76,0.10562893446991342
+governance,health outcomes,29,0.10552782989029924
+universal health coverage,health outcomes,61,0.10533536501164936
+health financing,primary health care,51,0.1051456995446981
+equity,primary health care,46,0.10425533264298575
+strategic purchasing,implementation,31,0.10367719024976511
+health financing,community-based health insurance,82,0.10349732847313167
+utilization,rural populations,44,0.10311323176631272
+health financing,informal sector,55,0.10286125391968583
+financial protection,fragmentation,25,0.10270253705842297
+cost sharing,coverage,58,0.10262738361177762
+universal health coverage,provider payment,27,0.10189332195999548
+health financing,catastrophic health expenditure,71,0.10158781593212332
+equity,benefit package,31,0.10142912597421619
+health financing,prepayment,33,0.10109438233707861
+health insurance,prepayment,64,0.10098142422050875
+out-of-pocket payments,primary health care,57,0.10065676791947678
+performance-based financing,utilization,54,0.1003225414652347
+financial protection,quality of care,45,0.09975987998727144
+prepayment,access,42,0.09973012140475064
+provider payment,implementation,24,0.099520827344404
+prepayment,enrolment,27,0.09923185042816292
+efficiency,benefit package,21,0.09917915285294192
+health insurance,fragmentation,64,0.09857101892380798
+user fees,coverage,85,0.0983701422262005
+quality of care,primary health care,28,0.09827768277714699
+risk pooling,implementation,39,0.09812260069063403
+catastrophic health expenditure,enrolment,57,0.09784358858764762
+user fees,cost sharing,23,0.09768237835887823
+health insurance,cost sharing,75,0.0958347705698827
+health financing,quality of care,59,0.09520836124214113
+benefit package,implementation,29,0.0951582061531526
+catastrophic health expenditure,social health insurance,39,0.09499995940173543
+informal sector,vulnerable populations,22,0.0949741554366345
+health financing,enrolment,83,0.09438432521192121
+out-of-pocket payments,benefit package,37,0.09432577718503483
+vulnerable populations,implementation,39,0.0940745499420281
+access,rural populations,53,0.09401005924637623
+out-of-pocket payments,government spending,57,0.09394538055232413
+provider payment,coverage,35,0.09389149775563622
+health financing,donor financing,23,0.09297958627902364
+access,fragmentation,40,0.09271388994507787
+universal health coverage,prepayment,30,0.09221040436314032
+health insurance,accountability,65,0.09182274857891633
+prepayment,coverage,42,0.09176651258778099
+user fees,primary health care,26,0.09176343580898579
+health financing,impoverishment,45,0.09095829092513183
+risk pooling,efficiency,25,0.09053099700002457
+access,benefit package,39,0.08997263970042722
+performance-based financing,health outcomes,27,0.08893905919223567
+health financing,performance-based financing,49,0.08889423693758874
+equity,prepayment,26,0.08755995692123714
+health insurance,provider payment,45,0.08717607608537552
+equity,provider payment,21,0.08683099377657569
+catastrophic health expenditure,rural populations,25,0.08635952118069967
+universal health coverage,fiscal sustainability,13,0.08561529758824774
+health financing,vulnerable populations,39,0.08533079308297148
+out-of-pocket payments,fragmentation,33,0.08452429638793267
+catastrophic health expenditure,prepayment,18,0.08323793982626533
+community-based health insurance,benefit package,21,0.08322789738239089
+access,accountability,39,0.08291194031654907
+health insurance,strategic purchasing,53,0.08280936640406651
+impoverishment,risk pooling,17,0.08273118308590469
+catastrophic health expenditure,risk pooling,24,0.0826770652374324
+risk pooling,governance,17,0.08202707510618032
+equity,performance-based financing,41,0.08176745695368684
+financial protection,rural populations,26,0.08173878099243502
+health outcomes,implementation,43,0.08158937453410438
+impoverishment,utilization,39,0.08072752247806163
+cost sharing,quality of care,19,0.08024953945566121
+financial protection,prepayment,19,0.07996261901420591
+social health insurance,quality of care,29,0.07967032967032966
+health financing,cost sharing,32,0.07938955874231317
+cost sharing,implementation,29,0.07931909946770366
+user fees,vulnerable populations,21,0.07865665062071159
+efficiency,primary health care,24,0.07851484880397003
+enrolment,health outcomes,38,0.07846150245174377
+financial protection,health outcomes,33,0.07802486874780823
+strategic purchasing,access,33,0.0775948810556996
+strategic purchasing,quality of care,15,0.07746793061083362
+universal health coverage,tax financing,12,0.07729238112874351
+user fees,efficiency,30,0.07724368655218261
+universal health coverage,government spending,40,0.07722525790190193
+governance,enrolment,32,0.07693819431645073
+equity,cost sharing,28,0.0763643305879791
+social health insurance,fragmentation,15,0.07636381812236193
+quality of care,fragmentation,15,0.07636381812236193
+equity,government spending,36,0.07615096238502142
+governance,benefit package,12,0.07551502242856806
+governance,quality of care,22,0.0750612837097955
+performance-based financing,efficiency,26,0.07484625805079223
+risk pooling,utilization,32,0.07478513706624813
+performance-based financing,coverage,57,0.07375207366778876
+tax financing,coverage,16,0.07325743166018596
+health financing,fiscal space,14,0.07285641270360431
+health insurance,tax financing,22,0.07274128476073326
+prepayment,informal sector,12,0.07253304563739892
+social health insurance,strategic purchasing,14,0.07230340190344471
+financial protection,governance,26,0.07158325500095213
+vulnerable populations,health outcomes,18,0.07150969419341942
+government spending,coverage,52,0.07136396720229705
+fiscal sustainability,access,14,0.07122860510449083
+governance,informal sector,18,0.07117571821357661
+informal sector,benefit package,12,0.0704700714397318
+quality of care,health outcomes,24,0.07032108464077431
+financial protection,efficiency,34,0.07025318231599627
+fiscal sustainability,coverage,15,0.0702223796746524
+social health insurance,accountability,15,0.07004147683506573
+strategic purchasing,performance-based financing,12,0.06967330142916177
+impoverishment,rural populations,14,0.06831951203645983
+financial protection,cost sharing,20,0.06816535978356786
+social health insurance,prepayment,13,0.06780035590064847
+catastrophic health expenditure,informal sector,24,0.0677541811229265
+performance-based financing,access,48,0.0674967307062827
+primary health care,health outcomes,18,0.06738218417649147
+quality of care,vulnerable populations,18,0.06704852344015114
+utilization,informal sector,35,0.06703234437046957
+health insurance,user fees,80,0.06685916387647581
+catastrophic health expenditure,community-based health insurance,35,0.06668360433631665
+fragmentation,implementation,20,0.06593518065491158
+health financing,benefit package,22,0.06547938053930921
+quality of care,accountability,14,0.06537204504606135
+out-of-pocket payments,governance,38,0.06523011619085946
+cost sharing,primary health care,12,0.06475427631237661
+government spending,access,43,0.06413368836201234
+community-based health insurance,vulnerable populations,22,0.06409609965249782
+health financing,provider payment,17,0.06394186367074432
+social health insurance,vulnerable populations,17,0.06332360547125385
+risk pooling,quality of care,16,0.06216323351090528
+universal health coverage,user fees,38,0.06186595265886127
+financial protection,primary health care,21,0.05947863035827026
+cost sharing,efficiency,15,0.05905054186141224
+utilization,accountability,21,0.05898411013577256
+community-based health insurance,governance,22,0.058709474957569466
+government spending,primary health care,14,0.05859433389096219
+catastrophic health expenditure,implementation,37,0.058364848960239295
+utilization,benefit package,19,0.057911221007585376
+community-based health insurance,primary health care,21,0.057651203830330004
+performance-based financing,governance,15,0.057535913618645206
+universal health coverage,cost sharing,23,0.057251495322524236
+out-of-pocket payments,strategic purchasing,22,0.057164265211026244
+impoverishment,vulnerable populations,12,0.055989251095585425
+equity,rural populations,22,0.055344729803610694
+health financing,rural populations,24,0.054921921675759364
+social health insurance,cost sharing,13,0.05490757962755767
+community-based health insurance,accountability,15,0.054783213489097884
+quality of care,rural populations,14,0.054542878791454794
+primary health care,enrolment,22,0.054414953449023626
+informal sector,rural populations,12,0.05418228460423625
+fragmentation,enrolment,15,0.05381289282714316
+prepayment,utilization,17,0.05333216869123176
+user fees,performance-based financing,17,0.052796049468745034
+universal health coverage,performance-based financing,29,0.05278628675660437
+provider payment,access,18,0.05247746503841294
+efficiency,enrolment,29,0.0523285859411053
+risk pooling,user fees,13,0.050787450018337
+provider payment,utilization,13,0.05007338610207152
+enrolment,accountability,15,0.0493575960324657
+governance,utilization,24,0.04925567214717181
+government spending,implementation,23,0.04879192926859064
+catastrophic health expenditure,quality of care,20,0.04871792789832586
+impoverishment,community-based health insurance,18,0.04844735033883345
+fiscal space,coverage,13,0.04825084841226214
+impoverishment,informal sector,12,0.047857786526995995
+efficiency,informal sector,16,0.04748192587911376
+health insurance,fiscal sustainability,14,0.04733026104442373
+prepayment,implementation,14,0.047283268094664446
+catastrophic health expenditure,health outcomes,18,0.04676350130171693
+impoverishment,enrolment,19,0.046074180693166426
+community-based health insurance,efficiency,23,0.04606407362449934
+rural populations,implementation,18,0.045412285034440746
+government spending,utilization,23,0.045321978767959153
+efficiency,vulnerable populations,13,0.04513399180301726
+social health insurance,community-based health insurance,21,0.04512426281971402
+impoverishment,social health insurance,13,0.044735126322539835
+out-of-pocket payments,accountability,19,0.0446363716948435
+quality of care,informal sector,14,0.04457513820901222
+health insurance,government spending,43,0.04261580312379841
+strategic purchasing,utilization,13,0.04038552654729307
+financial protection,user fees,18,0.040125028212920376
+user fees,enrolment,20,0.03893379680400908
+social health insurance,user fees,14,0.0386746234076881
+user fees,health outcomes,13,0.03830161731427132
+cost sharing,enrolment,12,0.035716500347699576
+community-based health insurance,health outcomes,15,0.03437619363855792
+catastrophic health expenditure,efficiency,15,0.034056009009662776
+impoverishment,implementation,15,0.03342623052836102
+government spending,enrolment,14,0.0323188624129489
+health insurance,performance-based financing,12,0.01121262265099487

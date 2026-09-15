@@ -1,0 +1,22 @@
+{
+  "retrieved_records": 14646,
+  "screened_in_before_dedup": 5907,
+  "duplicates_removed": 9,
+  "primary_corpus": 5898,
+  "strict_sensitivity_corpus": 5241,
+  "authors": 14047,
+  "institutions": 3153,
+  "total_citations": 93092,
+  "mean_citations": 15.783655476432688,
+  "median_citations": 2.0,
+  "mean_fwci": 2.19217801048491,
+  "open_access_share": 0.7304170905391658,
+  "works_with_studied_country": 5682,
+  "international_collaboration_share": 0.3133265513733469,
+  "country_attention_gini": 0.7557768716018403,
+  "top10_attention_share": 0.7230238393977415,
+  "reference_links": 108781,
+  "unique_references": 48881,
+  "reference_metadata_matched": 45285,
+  "cagr_2000_2025": 0.13330771171879618
+}

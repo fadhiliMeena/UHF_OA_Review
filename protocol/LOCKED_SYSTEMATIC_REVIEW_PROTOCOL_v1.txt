@@ -1,0 +1,59 @@
+LOCKED SYSTEMATIC REVIEW PROTOCOL — VERSION 1.0
+Locked: 12 September 2026
+
+TITLE
+Health Financing for Universal Health Coverage in Low- and Lower-Middle-Income Countries: Potential and Challenges
+
+PRIMARY DESIGN
+Systematic review and structured evidence synthesis. Bibliometric/science-mapping analyses are secondary methods used to characterise knowledge development, not the primary study design.
+
+REVIEW QUESTION
+How has knowledge on health-financing approaches for UHC developed in low- and lower-middle-income countries; what evidence exists regarding their potential and challenges; under what contextual conditions do the approaches perform well or poorly; and where do important evidence gaps remain?
+
+OBJECTIVES
+1. Systematically identify evidence on health-financing approaches relevant to UHC in low- and lower-middle-income countries.
+2. Synthesize the potential, challenges, implementation conditions and UHC implications of each financing approach.
+3. Examine knowledge development over time, geography, institutions, collaboration and themes using bibliometric/science-mapping methods applied to the broad OpenAlex retrieval corpus.
+4. Map evidence gaps by financing approach, country/context, population, UHC outcome and evidence strength.
+
+INFORMATION SOURCE AND SEARCH FRAME
+Primary source: OpenAlex. Retrieval window: 1990–2026. Work types at retrieval: article or review. Retracted works were excluded by the query. Geography uses the supplied World Bank FY2027 fixed cohort of 25 low-income and 47 lower-middle-income economies. The exact OpenAlex OQL query is preserved separately.
+
+ELIGIBILITY — INCLUDE
+Include studies whose title/abstract/full text substantively evaluates or analyses at least one health-financing mechanism/function relevant to UHC in one or more target economies (or multi-country analyses with relevant/extractable target-country evidence). Eligible financing domains include health-financing reform; tax/general-revenue financing; social/national/community-based health insurance or prepayment; pooling; strategic purchasing/provider payment; results/performance-based financing; user fees/cost sharing; out-of-pocket expenditure/financial protection; external/donor financing; and mixed arrangements.
+
+Eligible UHC outcomes include population/service coverage or entitlement; access/utilization; financial protection; equity; efficiency/value; quality where linked to financing; revenue/resource mobilization; fiscal/financial sustainability; pooling/fragmentation; purchasing/provider incentives; implementation/governance; and documented enabling or limiting conditions.
+
+ELIGIBILITY — EXCLUDE
+Exclude duplicates; paratext/corrections without substantive evidence; papers not substantively about health financing; purely clinical/biomedical studies; cost-of-illness or cost-effectiveness studies with no health-financing mechanism or system-policy implication; hospital/accounting finance without UHC relevance; studies outside target economies without relevant target-country evidence; and records where financing is incidental. Disease-specific financing studies are eligible only when they evaluate a financing mechanism/function with transferable UHC relevance.
+
+STUDY DESIGNS
+Empirical quantitative, qualitative, mixed-methods, implementation/policy evaluations, natural/quasi-experiments, observational analyses and evidence syntheses may be included. Conceptual/commentary papers are excluded from the primary empirical synthesis unless they contribute a clearly defined system/policy framework; if retained for contextual synthesis they are labelled separately and assigned lower inferential weight.
+
+SCREENING PROCESS
+Stage 0: technical deduplication using valid DOI; otherwise normalized title plus year. Invalid/blank DOI strings are ignored for deduplication. The metadata-complete record is retained.
+Stage 1: title/abstract screening against these locked criteria. The existing high-specificity OpenAlex financing screen is used only to PRIORITISE records; it is not a final inclusion decision. All other unique substantive records remain in manual-review Priority B rather than being automatically excluded.
+Stage 2: full-text assessment with one primary exclusion reason for each excluded report.
+Stage 3: structured extraction and design-specific critical appraisal.
+
+AUTOMATION AND AUDIT
+No record is finally excluded solely because of the automated triage. A fixed-seed audit/calibration sample is supplied. Any later automation rule must be versioned and audited before use for final exclusions.
+
+CRITICAL APPRAISAL
+Use design-specific JBI critical-appraisal tools where applicable. Evidence syntheses may additionally use an appropriate review-appraisal instrument such as AMSTAR 2 when applicable. Do not collapse heterogeneous designs into one numeric quality score.
+
+SYNTHESIS
+Primary synthesis: financing approach × country/context × UHC outcome × evidence strength. Quantitative estimates remain in original metrics unless justified pooling is possible. Bibliometric/science-mapping analyses describe knowledge development and evidence concentration and do not substitute for study-level evidence.
+
+REPORTING
+Report according to PRISMA 2020. Document the exact OpenAlex search using PRISMA-S principles where applicable. Clearly distinguish retrieval corpus, unique screened records, full-text reports and final included studies.
+
+CURRENT IDENTIFICATION CHECKPOINT
+OpenAlex records retrieved: 14,646
+Robust duplicate records flagged across the full retrieval corpus: 25
+Unique records after duplicate removal: 14,621
+Records with reconstructed OpenAlex abstracts: 13,225
+Priority counts are workflow aids only and must not be reported as PRISMA inclusion counts.
+
+AMENDMENT RULE
+Any change to the review question, eligibility criteria, outcome domains, country cohort, search years, appraisal approach or screening logic after this lock must be dated, justified and preserved in an amendment log.

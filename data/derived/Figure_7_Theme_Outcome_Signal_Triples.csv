@@ -1,0 +1,230 @@
+financing_theme,uhc_outcome,signal_class,cooccurrence_events
+External financing,Coverage/entitlement,Challenge only,7
+External financing,Coverage/entitlement,Both,1
+External financing,Access/utilization,Challenge only,5
+External financing,Access/utilization,Both,1
+External financing,Financial protection,Challenge only,5
+External financing,Financial protection,Both,1
+External financing,Equity,Potential only,1
+External financing,Equity,Challenge only,6
+External financing,Equity,Both,1
+External financing,Efficiency/value,Challenge only,4
+External financing,Efficiency/value,Both,1
+External financing,Quality,Challenge only,1
+External financing,Fiscal sustainability/resources,Potential only,1
+External financing,Fiscal sustainability/resources,Challenge only,6
+External financing,Fiscal sustainability/resources,Both,1
+External financing,Pooling/fragmentation,Challenge only,2
+External financing,Governance/implementation,Potential only,1
+External financing,Governance/implementation,Challenge only,7
+External financing,Governance/implementation,Both,2
+Financial protection/OOP,Coverage/entitlement,Potential only,111
+Financial protection/OOP,Coverage/entitlement,Challenge only,355
+Financial protection/OOP,Coverage/entitlement,Both,229
+Financial protection/OOP,Access/utilization,Potential only,134
+Financial protection/OOP,Access/utilization,Challenge only,304
+Financial protection/OOP,Access/utilization,Both,242
+Financial protection/OOP,Financial protection,Potential only,183
+Financial protection/OOP,Financial protection,Challenge only,693
+Financial protection/OOP,Financial protection,Both,329
+Financial protection/OOP,Equity,Potential only,44
+Financial protection/OOP,Equity,Challenge only,235
+Financial protection/OOP,Equity,Both,140
+Financial protection/OOP,Efficiency/value,Potential only,22
+Financial protection/OOP,Efficiency/value,Challenge only,42
+Financial protection/OOP,Efficiency/value,Both,33
+Financial protection/OOP,Quality,Potential only,16
+Financial protection/OOP,Quality,Challenge only,30
+Financial protection/OOP,Quality,Both,32
+Financial protection/OOP,Fiscal sustainability/resources,Potential only,8
+Financial protection/OOP,Fiscal sustainability/resources,Challenge only,40
+Financial protection/OOP,Fiscal sustainability/resources,Both,25
+Financial protection/OOP,Pooling/fragmentation,Potential only,10
+Financial protection/OOP,Pooling/fragmentation,Challenge only,51
+Financial protection/OOP,Pooling/fragmentation,Both,47
+Financial protection/OOP,Governance/implementation,Potential only,36
+Financial protection/OOP,Governance/implementation,Challenge only,80
+Financial protection/OOP,Governance/implementation,Both,75
+Insurance/prepayment,Coverage/entitlement,Potential only,270
+Insurance/prepayment,Coverage/entitlement,Challenge only,581
+Insurance/prepayment,Coverage/entitlement,Both,283
+Insurance/prepayment,Access/utilization,Potential only,298
+Insurance/prepayment,Access/utilization,Challenge only,414
+Insurance/prepayment,Access/utilization,Both,289
+Insurance/prepayment,Financial protection,Potential only,166
+Insurance/prepayment,Financial protection,Challenge only,413
+Insurance/prepayment,Financial protection,Both,248
+Insurance/prepayment,Equity,Potential only,68
+Insurance/prepayment,Equity,Challenge only,266
+Insurance/prepayment,Equity,Both,169
+Insurance/prepayment,Efficiency/value,Potential only,34
+Insurance/prepayment,Efficiency/value,Challenge only,69
+Insurance/prepayment,Efficiency/value,Both,35
+Insurance/prepayment,Quality,Potential only,34
+Insurance/prepayment,Quality,Challenge only,57
+Insurance/prepayment,Quality,Both,38
+Insurance/prepayment,Fiscal sustainability/resources,Potential only,15
+Insurance/prepayment,Fiscal sustainability/resources,Challenge only,52
+Insurance/prepayment,Fiscal sustainability/resources,Both,37
+Insurance/prepayment,Pooling/fragmentation,Potential only,30
+Insurance/prepayment,Pooling/fragmentation,Challenge only,84
+Insurance/prepayment,Pooling/fragmentation,Both,56
+Insurance/prepayment,Governance/implementation,Potential only,78
+Insurance/prepayment,Governance/implementation,Challenge only,190
+Insurance/prepayment,Governance/implementation,Both,106
+Performance-based financing,Coverage/entitlement,Potential only,16
+Performance-based financing,Coverage/entitlement,Challenge only,19
+Performance-based financing,Coverage/entitlement,Both,7
+Performance-based financing,Access/utilization,Potential only,27
+Performance-based financing,Access/utilization,Challenge only,19
+Performance-based financing,Access/utilization,Both,15
+Performance-based financing,Financial protection,Potential only,1
+Performance-based financing,Financial protection,Challenge only,4
+Performance-based financing,Financial protection,Both,6
+Performance-based financing,Equity,Potential only,9
+Performance-based financing,Equity,Challenge only,21
+Performance-based financing,Equity,Both,10
+Performance-based financing,Efficiency/value,Potential only,9
+Performance-based financing,Efficiency/value,Challenge only,5
+Performance-based financing,Efficiency/value,Both,2
+Performance-based financing,Quality,Potential only,17
+Performance-based financing,Quality,Challenge only,11
+Performance-based financing,Quality,Both,4
+Performance-based financing,Fiscal sustainability/resources,Challenge only,4
+Performance-based financing,Fiscal sustainability/resources,Both,2
+Performance-based financing,Pooling/fragmentation,Challenge only,10
+Performance-based financing,Pooling/fragmentation,Both,2
+Performance-based financing,Governance/implementation,Potential only,19
+Performance-based financing,Governance/implementation,Challenge only,24
+Performance-based financing,Governance/implementation,Both,12
+Pooling,Coverage/entitlement,Potential only,6
+Pooling,Coverage/entitlement,Challenge only,20
+Pooling,Coverage/entitlement,Both,14
+Pooling,Access/utilization,Potential only,6
+Pooling,Access/utilization,Challenge only,13
+Pooling,Access/utilization,Both,12
+Pooling,Financial protection,Potential only,3
+Pooling,Financial protection,Challenge only,18
+Pooling,Financial protection,Both,17
+Pooling,Equity,Potential only,2
+Pooling,Equity,Challenge only,14
+Pooling,Equity,Both,10
+Pooling,Efficiency/value,Potential only,1
+Pooling,Efficiency/value,Challenge only,5
+Pooling,Efficiency/value,Both,5
+Pooling,Quality,Potential only,1
+Pooling,Quality,Challenge only,5
+Pooling,Quality,Both,4
+Pooling,Fiscal sustainability/resources,Challenge only,4
+Pooling,Fiscal sustainability/resources,Both,6
+Pooling,Pooling/fragmentation,Potential only,8
+Pooling,Pooling/fragmentation,Challenge only,31
+Pooling,Pooling/fragmentation,Both,18
+Pooling,Governance/implementation,Potential only,3
+Pooling,Governance/implementation,Challenge only,8
+Pooling,Governance/implementation,Both,9
+Purchasing/provider payment,Coverage/entitlement,Potential only,8
+Purchasing/provider payment,Coverage/entitlement,Challenge only,41
+Purchasing/provider payment,Coverage/entitlement,Both,20
+Purchasing/provider payment,Access/utilization,Potential only,7
+Purchasing/provider payment,Access/utilization,Challenge only,18
+Purchasing/provider payment,Access/utilization,Both,18
+Purchasing/provider payment,Financial protection,Potential only,3
+Purchasing/provider payment,Financial protection,Challenge only,18
+Purchasing/provider payment,Financial protection,Both,15
+Purchasing/provider payment,Equity,Potential only,6
+Purchasing/provider payment,Equity,Challenge only,30
+Purchasing/provider payment,Equity,Both,15
+Purchasing/provider payment,Efficiency/value,Potential only,8
+Purchasing/provider payment,Efficiency/value,Challenge only,30
+Purchasing/provider payment,Efficiency/value,Both,8
+Purchasing/provider payment,Quality,Potential only,1
+Purchasing/provider payment,Quality,Challenge only,7
+Purchasing/provider payment,Quality,Both,7
+Purchasing/provider payment,Fiscal sustainability/resources,Challenge only,7
+Purchasing/provider payment,Fiscal sustainability/resources,Both,7
+Purchasing/provider payment,Pooling/fragmentation,Potential only,2
+Purchasing/provider payment,Pooling/fragmentation,Challenge only,26
+Purchasing/provider payment,Pooling/fragmentation,Both,6
+Purchasing/provider payment,Governance/implementation,Potential only,7
+Purchasing/provider payment,Governance/implementation,Challenge only,36
+Purchasing/provider payment,Governance/implementation,Both,13
+Revenue/public financing,Coverage/entitlement,Potential only,15
+Revenue/public financing,Coverage/entitlement,Challenge only,46
+Revenue/public financing,Coverage/entitlement,Both,15
+Revenue/public financing,Access/utilization,Potential only,17
+Revenue/public financing,Access/utilization,Challenge only,38
+Revenue/public financing,Access/utilization,Both,15
+Revenue/public financing,Financial protection,Potential only,9
+Revenue/public financing,Financial protection,Challenge only,56
+Revenue/public financing,Financial protection,Both,20
+Revenue/public financing,Equity,Potential only,8
+Revenue/public financing,Equity,Challenge only,46
+Revenue/public financing,Equity,Both,10
+Revenue/public financing,Efficiency/value,Potential only,8
+Revenue/public financing,Efficiency/value,Challenge only,18
+Revenue/public financing,Efficiency/value,Both,6
+Revenue/public financing,Quality,Potential only,1
+Revenue/public financing,Quality,Challenge only,4
+Revenue/public financing,Quality,Both,2
+Revenue/public financing,Fiscal sustainability/resources,Potential only,13
+Revenue/public financing,Fiscal sustainability/resources,Challenge only,53
+Revenue/public financing,Fiscal sustainability/resources,Both,9
+Revenue/public financing,Pooling/fragmentation,Potential only,3
+Revenue/public financing,Pooling/fragmentation,Challenge only,4
+Revenue/public financing,Pooling/fragmentation,Both,3
+Revenue/public financing,Governance/implementation,Potential only,3
+Revenue/public financing,Governance/implementation,Challenge only,26
+Revenue/public financing,Governance/implementation,Both,6
+User fees/cost sharing,Coverage/entitlement,Potential only,10
+User fees/cost sharing,Coverage/entitlement,Challenge only,79
+User fees/cost sharing,Coverage/entitlement,Both,46
+User fees/cost sharing,Access/utilization,Potential only,15
+User fees/cost sharing,Access/utilization,Challenge only,164
+User fees/cost sharing,Access/utilization,Both,85
+User fees/cost sharing,Financial protection,Potential only,6
+User fees/cost sharing,Financial protection,Challenge only,68
+User fees/cost sharing,Financial protection,Both,52
+User fees/cost sharing,Equity,Potential only,4
+User fees/cost sharing,Equity,Challenge only,92
+User fees/cost sharing,Equity,Both,41
+User fees/cost sharing,Efficiency/value,Potential only,5
+User fees/cost sharing,Efficiency/value,Challenge only,21
+User fees/cost sharing,Efficiency/value,Both,15
+User fees/cost sharing,Quality,Potential only,4
+User fees/cost sharing,Quality,Challenge only,41
+User fees/cost sharing,Quality,Both,18
+User fees/cost sharing,Fiscal sustainability/resources,Potential only,1
+User fees/cost sharing,Fiscal sustainability/resources,Challenge only,14
+User fees/cost sharing,Fiscal sustainability/resources,Both,7
+User fees/cost sharing,Pooling/fragmentation,Potential only,6
+User fees/cost sharing,Pooling/fragmentation,Challenge only,17
+User fees/cost sharing,Pooling/fragmentation,Both,10
+User fees/cost sharing,Governance/implementation,Potential only,7
+User fees/cost sharing,Governance/implementation,Challenge only,74
+User fees/cost sharing,Governance/implementation,Both,40
+Willingness to pay,Coverage/entitlement,Potential only,11
+Willingness to pay,Coverage/entitlement,Challenge only,32
+Willingness to pay,Coverage/entitlement,Both,9
+Willingness to pay,Access/utilization,Potential only,10
+Willingness to pay,Access/utilization,Challenge only,19
+Willingness to pay,Access/utilization,Both,10
+Willingness to pay,Financial protection,Potential only,14
+Willingness to pay,Financial protection,Challenge only,27
+Willingness to pay,Financial protection,Both,10
+Willingness to pay,Equity,Potential only,3
+Willingness to pay,Equity,Challenge only,8
+Willingness to pay,Equity,Both,5
+Willingness to pay,Efficiency/value,Potential only,1
+Willingness to pay,Efficiency/value,Challenge only,3
+Willingness to pay,Efficiency/value,Both,1
+Willingness to pay,Quality,Challenge only,3
+Willingness to pay,Quality,Both,2
+Willingness to pay,Fiscal sustainability/resources,Challenge only,2
+Willingness to pay,Fiscal sustainability/resources,Both,4
+Willingness to pay,Pooling/fragmentation,Potential only,7
+Willingness to pay,Pooling/fragmentation,Challenge only,6
+Willingness to pay,Pooling/fragmentation,Both,4
+Willingness to pay,Governance/implementation,Potential only,6
+Willingness to pay,Governance/implementation,Challenge only,8
+Willingness to pay,Governance/implementation,Both,4

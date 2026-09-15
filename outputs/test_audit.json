@@ -1,0 +1,14 @@
+{
+  "n": 350,
+  "positive_definition": "Include + Map only + Unclear",
+  "negative_definition": "Exclude",
+  "fold_auc": [
+    0.9214226633581473,
+    0.9383223684210527,
+    0.868421052631579,
+    0.9070723684210527,
+    0.875
+  ],
+  "mean_auc": 0.9020476905663664,
+  "rounded_mean_auc": 0.902
+}

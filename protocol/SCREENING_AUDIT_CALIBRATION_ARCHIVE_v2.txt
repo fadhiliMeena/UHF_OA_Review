@@ -1,0 +1,57 @@
+TITLE/ABSTRACT SCREENING AUDIT AND CALIBRATION REPORT — v2
+Date: 13 September 2026
+
+Review:
+Health Financing for Universal Health Coverage in Low- and Lower-Middle-Income Countries: Potential and Challenges
+
+AUDIT SAMPLE
+Fixed audit sample reviewed: 350 records
+Manual audit decisions:
+- Include: 100
+- Exclude: 159
+- Map only: 59
+- Unclear: 32
+
+PHASE 2A ASSISTED RULE VS MANUAL AUDIT
+Among the 100 manually audited Include records:
+- Assisted Include: 44
+- Assisted Unclear: 47
+- Assisted Map only: 6
+- Assisted Exclude: 3
+
+This showed that Phase 2A assisted exclusions were not sufficiently sensitive to be used as final PRISMA exclusions.
+
+CALIBRATED TEXT MODEL
+A binary TF-IDF + logistic-regression model was calibrated using the 350 manually audited records.
+Five-fold stratified cross-validation AUC: 0.902
+
+Conservative exclusion rule:
+- audited-model inclusion probability < 0.30
+- AND Phase 2A assisted recommendation is not Include
+
+Cross-validated audit performance of this exclusion rule:
+- audit records flagged as candidate exclusions: 68
+- manually audited Include records missed: 0
+- observed sensitivity for retaining audited Includes: 100% within this 350-record calibration sample
+
+High-confidence include check:
+- probability >= 0.60 AND assisted recommendation Include
+- audit records meeting rule: 22
+- manually audited Includes among them: 22
+
+FULL-CORPUS CALIBRATED WORKFLOW
+- Advance to full text: 5,274
+- Candidate exclude — verify: 2,928
+- Manual title/abstract review: 6,335
+- Technical exclude: 109
+Total: 14,646
+
+INTERPRETATION
+1. The 350-record manual audit is now complete.
+2. Technical duplicate/paratext exclusions are separated from substantive exclusions.
+3. Candidate exclusions are NOT yet final PRISMA exclusions; they require verification because calibration performance from a finite audit sample does not prove zero false exclusions in the full corpus.
+4. Full-text advancement is intentionally sensitive: false positives can be removed at full-text review, whereas false negative title/abstract exclusions would threaten review validity.
+5. The broad OpenAlex corpus remains the knowledge-development/bibliometric corpus even when records do not enter the primary evidence synthesis.
+
+DISCLOSURE
+This screening workflow uses AI/rule-assisted prioritisation and a calibrated text model. Any manuscript should describe this assistance transparently and should not state that the author manually screened every record unless the author independently verifies those decisions.

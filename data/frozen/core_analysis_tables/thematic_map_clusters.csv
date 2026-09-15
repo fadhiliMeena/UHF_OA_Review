@@ -1,0 +1,5 @@
+cluster,centrality,density,size,label,centrality_z,density_z
+0,4645,16.79047619047619,3472,"Finance, Payment, Private sector",1.2639634083463103,-0.0869498171865983
+1,4296,8.904761904761905,3189,"Public economics, Poverty, Demographic economics",0.589463057409212,-0.7978675195082079
+2,3724,9.157894736842104,3984,"Health insurance, Health services, National health insurance",-0.5160217584533102,-0.7750469347337093
+3,3299,36.166666666666664,2029,"Health policy, Health economics, Health services research",-1.3374047073022122,1.6598642714285157

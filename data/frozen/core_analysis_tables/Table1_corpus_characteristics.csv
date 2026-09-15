@@ -1,0 +1,19 @@
+Indicator,Value
+Records retrieved from OpenAlex,14646.0
+Records passing high-specificity relevance screen,5907.0
+Duplicate DOI/title-year records removed,9.0
+Primary analytic corpus,5898.0
+Strict title-term sensitivity corpus,5241.0
+Unique authors,14047.0
+Unique institutions,3153.0
+Total OpenAlex citations,93092.0
+Mean citations per publication,15.78
+Median citations per publication,2.0
+Mean FWCI,2.19
+Open-access publications (%),73.0
+Publications with target country identified,5682.0
+International collaboration (%),31.3
+Country-attention Gini,0.756
+Reference links in analytic corpus,108781.0
+Unique cited works in analytic corpus,48881.0
+Cited works with metadata,45285.0

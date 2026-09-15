@@ -1,0 +1,48 @@
+{
+  "study_title": "Health-financing research in low- and lower-middle-income countries, 1990–2026",
+  "download_completed_utc": "2026-09-10T20:42:30.639851+00:00",
+  "openalex_query": "works where\n\n(\n    title/abstract has (stemmed \"health financing\" or stemmed \"healthcare financing\" or stemmed \"health care financing\" or stemmed \"health system financing\" or stemmed \"financing health care\" or stemmed \"financing healthcare\" or stemmed \"health financing reform\" or stemmed \"health financing policy\" or stemmed \"health insurance\" or stemmed \"social health insurance\" or stemmed \"national health insurance\" or stemmed \"community based health insurance\" or stemmed \"community-based health insurance\" or stemmed \"mutual health insurance\" or stemmed \"micro health insurance\" or stemmed \"health prepayment\" or stemmed \"prepayment for health care\" or stemmed \"financial protection\" or stemmed \"financial risk protection\" or stemmed \"catastrophic health expenditure\" or stemmed \"catastrophic health spending\" or stemmed \"catastrophic health payment\" or stemmed \"catastrophic medical expenditure\" or stemmed \"impoverishing health expenditure\" or stemmed \"impoverishing health spending\" or stemmed \"out of pocket health expenditure\" or stemmed \"out-of-pocket health expenditure\" or stemmed \"out of pocket health spending\" or stemmed \"out-of-pocket health spending\" or stemmed \"out of pocket health payment\" or stemmed \"out-of-pocket health payment\" or stemmed \"health risk pooling\" or stemmed \"risk pooling for health\" or stemmed \"health financing pool\" or stemmed \"pooling health funds\" or stemmed \"strategic purchasing for health\" or stemmed \"strategic health purchasing\" or stemmed \"health care purchasing\" or stemmed \"healthcare purchasing\" or stemmed \"provider payment\" or stemmed \"provider reimbursement\" or stemmed \"government health expenditure\" or stemmed \"public health expenditure\" or stemmed \"domestic health expenditure\" or stemmed \"household health expenditure\" or stemmed \"current health expenditure\" or stemmed \"national health accounts\" or stemmed \"health accounts\" or stemmed \"tax based health financing\" or stemmed \"tax-based health financing\" or stemmed \"tax funded health care\" or stemmed \"fiscal space for health\" or stemmed \"domestic resource mobilization for health\" or stemmed \"domestic resource mobilisation for health\" or stemmed \"development assistance for health\" or stemmed \"external health financing\" or stemmed \"donor financing for health\")\n\n    or\n\n    (\n        title/abstract has (stemmed \"user fee\" or stemmed \"cost sharing\" or stemmed \"co payment\" or stemmed \"copayment\" or stemmed \"coinsurance\" or stemmed \"results based financing\" or stemmed \"results-based financing\" or stemmed \"performance based financing\" or stemmed \"performance-based financing\" or stemmed \"pay for performance\" or stemmed \"payment for performance\" or stemmed \"strategic purchasing\" or stemmed \"risk pooling\" or stemmed \"revenue raising\")\n        and\n        title/abstract has (health or healthcare or stemmed \"health care\" or medical)\n    )\n)\n\nand title/abstract has (\"Democratic Republic of the Congo\" or \"Democratic Republic of Congo\" or \"DR Congo\" or \"Congo-Kinshasa\" or \"Republic of the Congo\" or \"Republic of Congo\" or \"Congo-Brazzaville\" or \"North Korea\" or \"Democratic People's Republic of Korea\" or \"Korea, Democratic People's Republic\" or \"The Gambia\" or \"Gambia\" or \"Côte d'Ivoire\" or \"Cote d'Ivoire\" or \"Ivory Coast\" or \"Egypt\" or \"Arab Republic of Egypt\" or \"Kyrgyzstan\" or \"Kyrgyz Republic\" or \"Laos\" or \"Lao PDR\" or \"Lao People's Democratic Republic\" or \"São Tomé and Príncipe\" or \"Sao Tome and Principe\" or \"Syria\" or \"Syrian Arab Republic\" or \"Tanzania\" or \"United Republic of Tanzania\" or \"Timor-Leste\" or \"Timor Leste\" or \"East Timor\" or \"Venezuela\" or \"Bolivarian Republic of Venezuela\" or \"West Bank and Gaza\" or \"West Bank\" or \"Gaza\" or \"Palestine\" or \"Palestinian territories\" or \"occupied Palestinian territory\" or \"Yemen\" or \"Republic of Yemen\" or \"Afghanistan\" or \"Burkina Faso\" or \"Burundi\" or \"Central African Republic\" or \"Chad\" or \"Eritrea\" or \"Ethiopia\" or \"Guinea-Bissau\" or \"Liberia\" or \"Madagascar\" or \"Malawi\" or \"Mali\" or \"Mozambique\" or \"Niger\" or \"Rwanda\" or \"Sierra Leone\" or \"Somalia\" or \"South Sudan\" or \"Sudan\" or \"Uganda\" or \"Angola\" or \"Bangladesh\" or \"Benin\" or \"Bhutan\" or \"Bolivia\" or \"Cambodia\" or \"Cameroon\" or \"Comoros\" or \"Djibouti\" or \"Eswatini\" or \"Ghana\" or \"Guinea\" or \"Haiti\" or \"Honduras\" or \"India\" or \"Kenya\" or \"Kiribati\" or \"Lebanon\" or \"Lesotho\" or \"Mauritania\" or \"Morocco\" or \"Myanmar\" or \"Namibia\" or \"Nepal\" or \"Nicaragua\" or \"Nigeria\" or \"Pakistan\" or \"Papua New Guinea\" or \"Senegal\" or \"Solomon Islands\" or \"Tajikistan\" or \"Togo\" or \"Tunisia\" or \"Uzbekistan\" or \"Vanuatu\" or \"Zambia\" or \"Zimbabwe\" or stemmed \"low income country\" or stemmed \"low-income country\" or stemmed \"lower middle income country\" or stemmed \"lower-middle-income country\" or stemmed \"low and lower middle income countries\" or stemmed \"low- and lower-middle-income countries\")\n\nand year >= (1990)\nand year <= (2026)\n\nand type is (article or review)\n\nand retracted is (false)",
+  "start_year": 1990,
+  "end_year": 2026,
+  "income_classification": "World Bank FY2027 fixed cohort",
+  "n_low_income_countries": 25,
+  "n_lower_middle_income_countries": 47,
+  "n_target_economies": 72,
+  "n_complete_corpus_works": 14646,
+  "n_unique_cited_works": 144234,
+  "n_cited_works_with_metadata": 135252,
+  "files": {
+    "LLMIC_health_financing_COMPLETE_OpenAlex/01_raw/LLMIC_health_financing_OpenAlex_FULL_WORKS.jsonl": {
+      "bytes": 323644317,
+      "sha256": "526b283e01866fb5b80f8567a296c7e420de0d028f4c3c388cf8dd4e21468c0e"
+    },
+    "LLMIC_health_financing_COMPLETE_OpenAlex/01_raw/LLMIC_health_financing_OpenAlex_FULL_WORKS.jsonl.gz": {
+      "bytes": 55583662,
+      "sha256": "f0201cbbfb5962abc4bb5aec3a42df82bd21dc0e31084805d4c7ef4afbe88ed3"
+    },
+    "LLMIC_health_financing_COMPLETE_OpenAlex/01_raw/LLMIC_health_financing_CITED_REFERENCES.jsonl": {
+      "bytes": 853442397,
+      "sha256": "a0189d476eca1c67e0f802e9ca446c9fc41c01002d5c98dcbda5c3051cdd60ae"
+    },
+    "LLMIC_health_financing_COMPLETE_OpenAlex/01_raw/LLMIC_health_financing_CITED_REFERENCES.jsonl.gz": {
+      "bytes": 93235332,
+      "sha256": "cb323b88d15682040a4d83bdb6651c9ea006b988674ff731626a55354dae090f"
+    },
+    "LLMIC_health_financing_COMPLETE_OpenAlex/02_tables/reference_frequency.csv": {
+      "bytes": 2016890,
+      "sha256": "d592e5080152ede13ecc86fc2227b541769c5cf0e1ca88580208c551509a4ce8"
+    },
+    "LLMIC_health_financing_COMPLETE_OpenAlex/00_protocol/country_classification_FY2027.csv": {
+      "bytes": 1949,
+      "sha256": "6bc153aa47fbaeb4f2c717e9337f844267117df1a0210be387b328601a485a38"
+    },
+    "LLMIC_health_financing_COMPLETE_OpenAlex/00_protocol/final_openalex_search.oql": {
+      "bytes": 4934,
+      "sha256": "f4b9405b460e8d7d581a1aa8b2d38ec4c8e1f0747eea92a0ceea3e71691e00d9"
+    },
+    "LLMIC_health_financing_COMPLETE_OpenAlex/02_tables/download_coverage_summary.csv": {
+      "bytes": 506,
+      "sha256": "d97a37c31e0e55db8569c58170dba3561f2f943eae268ebcd487f72ef59e7bab"
+    }
+  }
+}
