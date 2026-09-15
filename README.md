@@ -6,7 +6,7 @@ This repository reproduces the systematic mapping review:
 
 **Health Financing for Universal Health Coverage in Low- and Lower-Middle-Income Countries: Potential and Challenges**
 
-Author: **Fadhili Meena**  
+Author(s): **Meena F, et. al**  
 Department of Mathematics and Statistics, University of Dodoma, Tanzania  
 ORCID: 0009-0001-5483-9499
 
