@@ -53,5 +53,3 @@ INTERPRETATION
 4. Full-text advancement is intentionally sensitive: false positives can be removed at full-text review, whereas false negative title/abstract exclusions would threaten review validity.
 5. The broad OpenAlex corpus remains the knowledge-development/bibliometric corpus even when records do not enter the primary evidence synthesis.
 
-DISCLOSURE
-This screening workflow uses AI/rule-assisted prioritisation and a calibrated text model. Any manuscript should describe this assistance transparently and should not state that the author manually screened every record unless the author independently verifies those decisions.
