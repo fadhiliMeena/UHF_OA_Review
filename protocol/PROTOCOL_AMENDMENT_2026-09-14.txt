@@ -6,7 +6,7 @@ Original protocol
 The protocol locked on 12 September 2026 anticipated a conventional study-level systematic review with full-text eligibility assessment and design-specific critical appraisal.
 
 Reason for amendment
-The fixed 350-record audit showed that the initial high-specificity title/abstract rule had high precision but limited sensitivity for study-level eligibility. At the same time, the central contribution supported by the complete OpenAlex data is field-level knowledge development, thematic concentration, geographic leadership and the way potential/challenge concepts are represented across the indexed literature. Proceeding to claim a completed full-text effectiveness review without manually retrieving and appraising thousands of reports would be methodologically inappropriate.
+The fixed 350-record audit showed that the initial high-specificity title/abstract rule had high precision but limited sensitivity for study-level eligibility. At the same time, the central contribution supported by the complete OpenAlex data is field-level knowledge development, thematic concentration, geographic leadership and the way potential/challenge concepts are represented across the indexed literature. 
 
 Amended final design
 The submitted article is therefore a SYSTEMATIC MAPPING REVIEW at the bibliographic-record level. OpenAlex is the primary information source. A reproducible high-specificity financing-evidence rule defines the core analytic map (n=5,898 after deduplication), while a fixed 350-record manual audit is reported as a screening-quality check. Bibliometric/science-mapping methods, authorship/geographic analyses, term co-occurrence, and predefined potential/challenge text-signal mapping are secondary analytic methods within the systematic map.
@@ -14,4 +14,3 @@ The submitted article is therefore a SYSTEMATIC MAPPING REVIEW at the bibliograp
 Interpretive boundary
 The review does not estimate causal effects, pool intervention outcomes, or assign study-level certainty grades. Potential/challenge findings are title/abstract discourse signals, not effect estimates. Any future conventional effectiveness review of specific financing mechanisms should undertake full-text retrieval and design-specific risk-of-bias appraisal.
 
-This amendment is disclosed to prevent retrospective misrepresentation of the review design.
