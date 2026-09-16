@@ -4,7 +4,7 @@
 
 This repository reproduces the systematic mapping review:
 
-**Health Financing for Universal Health Coverage in Low- and Lower-Middle-Income Countries: Potential and Challenges**
+**Health Financing for Universal Health Coverage in Low- and Lower-Middle-Income Countries: A Systematic Mapping Review**
 
 Author(s): **Meena F, et. al**  
 Department of Mathematics and Statistics, University of Dodoma, Tanzania  
